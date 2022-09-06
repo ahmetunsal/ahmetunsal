@@ -1,11 +1,3 @@
-### Hi there 👋
-
-#### I am a certified Kotlin Android developer.
-
-# My Stats
-![Ahmet's github stats](https://github-readme-stats.vercel.app/api?username=ahmetunsal&show_icons=true&hide_title=true&theme=tokyonight)
-![Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetunsal&layout=compact&theme=tokyonight)
-
-I made this view with this:
-(https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://ahmetunsal.github.io/"><img src="https://github.com/ahmetunsal/ahmetunsal/blob/main/header.png"></img></a>
+<p align="center"><a href="https://github.com/Jurredr/github-widgetbox"><img src="https://github-widgetbox.vercel.app/api/profile?username=ahmetunsal&data=followers,repositories,stars,commits"></a></p>
+<p align="center"><a href="https://github.com/Jurredr/github-widgetbox"><img src="https://github-widgetbox.vercel.app/api/skills?names=js,kotlin,html,css&includeNames=true"></img></a></p>
