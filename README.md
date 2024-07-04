@@ -5,7 +5,7 @@
 <img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/skills?names=js,kotlin,python,html,css&includeNames=true&theme=darkmode" />
 <img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/skills?frameworks=nodejs,react,tensorflow&includeNames=true&theme=darkmode" />
 
-### Hello there! I'm Ahmet, 18 year-old university student based in Turkiye. When I was 14 year-old I decided to develop myself as a software developer and its still continues.
+### Hello there! I'm Ahmet, 19 year-old university student based in Turkiye. When I was 14 year-old I decided to develop myself as a software developer and its still continues.
 ### I'm currently work on websites, mobile applications and discord bot applications. 
 
 
