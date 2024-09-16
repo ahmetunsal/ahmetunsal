@@ -11,5 +11,5 @@
 
 ### Currently Learning
   - Python
+  - Django
   - Machine Learning
-  - Data Science
